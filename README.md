@@ -1,6 +1,6 @@
 ### 
 
-<h1>Hi, I am Shannon! <meta charset="&#129418;">
+<h1>Hi, I am Shannon! <meta charset="U+1F98A">
 </h1>
 <br>
 I am currently enrolled in Codesquad's full stack bootcamp. <br>
