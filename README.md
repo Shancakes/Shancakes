@@ -1,6 +1,7 @@
 ### 
 
-<h1>Hi, I am Shannon! </h1>
+<h1>Hi, I am Shannon! <meta charset="&#129418;">
+</h1>
 <br>
 I am currently enrolled in Codesquad's full stack bootcamp. <br>
 Boston MA<a href="URL_REDIRECT" target="blank"><img align="right" src="https://media.tenor.com/seevqHtgKMEAAAAC/fox-minecraft-fox.gif" height="100" /></a>
