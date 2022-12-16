@@ -1,8 +1,9 @@
 ### 
 
-<h1>Hi, I am Shannon! <meta charset="U+1F98A">
+<h1>Hi, I am Shannon! 🦊<span></span>
 </h1>
 <br>
+She/they<br>
 I am currently enrolled in Codesquad's full stack bootcamp. <br>
 Boston MA<a href="URL_REDIRECT" target="blank"><img align="right" src="https://media.tenor.com/seevqHtgKMEAAAAC/fox-minecraft-fox.gif" height="100" /></a>
 
