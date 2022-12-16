@@ -1,11 +1,9 @@
 ### 
 
 <h1>Hi, I am Shannon! </h1>
-<br><li><br>
+<br>
 I am currently enrolled in Codesquad's full stack bootcamp. <br>
-Boston MA<br>
-
-<a href="URL_REDIRECT" target="blank"><img align="right" src="https://media.tenor.com/seevqHtgKMEAAAAC/fox-minecraft-fox.gif" height="100" /></a>
+Boston MA<a href="URL_REDIRECT" target="blank"><img align="right" src="https://media.tenor.com/seevqHtgKMEAAAAC/fox-minecraft-fox.gif" height="100" /></a>
 
 <!--
 **Shancakes/Shancakes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
