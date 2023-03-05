@@ -4,13 +4,12 @@
 
 <div class="readme" align="center">
 
-![coollogo_com-102242137](https://user-images.githubusercontent.com/115766756/222977402-47722ab0-9dca-40b2-b4d0-7f3af94e6a87.png)
-
-
-
-<p>She/they</p>
-<p>I am currently enrolled in Codesquad's full stack bootcamp. </p>
-  <p>Boston MA</p>
+  <h1>
+ℌ𝔦, ℑ 𝔞𝔪 S𝔥𝔞𝔫𝔫𝔬𝔫!
+  </h1>
+<p>ꜱʜᴇ / ᴛʜᴇʏ</p>
+<p>ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ꜱᴛᴜᴅᴇɴᴛ ᴄᴜʀʀᴇɴᴛʟʏ ᴇɴʀᴏʟʟᴇᴅ ɪɴ ᴀ fᴜʟʟ ꜱᴛᴀᴄᴋ ʙᴏᴏᴛᴄᴀᴍᴘ.</p>
+  <p>ʙᴀꜱᴇᴅ ɪɴ ʙᴏꜱᴛᴏɴ ᴍᴀ</p>
   
 <!--   <a href="URL_REDIRECT" target="blank"><img align="right" src="https://media.tenor.com/seevqHtgKMEAAAAC/fox-minecraft-fox.gif" height="100" /></a></p> -->
 
