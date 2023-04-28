@@ -1,17 +1,18 @@
+<div class="readme">
 
-
-
-
-<div class="readme" align="center">
-<img src="https://i.gifer.com/g32K.gif">
   <h1>
-ℌ𝔦, ℑ 𝔞𝔪 S𝔥𝔞𝔫𝔫𝔬𝔫!
+ℌ𝔦, ℑ 𝔞𝔪 S𝔥𝔞𝔫𝔫𝔬𝔫! 
+
   </h1>
+  
+  <p><img align="right" src="https://media.tenor.com/exuPwTTU-FwAAAAC/key-click-typing.gif" height="100" /></p>
+  
 <p>ꜱʜᴇ / ᴛʜᴇʏ</p>
 <p>ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ꜱᴛᴜᴅᴇɴᴛ ᴄᴜʀʀᴇɴᴛʟʏ ᴇɴʀᴏʟʟᴇᴅ ɪɴ ᴀ fᴜʟʟ ꜱᴛᴀᴄᴋ ʙᴏᴏᴛᴄᴀᴍᴘ.</p>
   <p>ʙᴀꜱᴇᴅ ɪɴ ʙᴏꜱᴛᴏɴ ᴍᴀ</p>
   
-<!--   <a href="URL_REDIRECT" target="blank"><img align="right" src="https://media.tenor.com/seevqHtgKMEAAAAC/fox-minecraft-fox.gif" height="100" /></a></p> -->
+<h1>
+</h1>
 
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> 
 
