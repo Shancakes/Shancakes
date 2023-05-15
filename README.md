@@ -1,15 +1,15 @@
 <div class="readme">
 
   <h1>
-ℌ𝔦, ℑ 𝔞𝔪 S𝔥𝔞𝔫𝔫𝔬𝔫! 
+    Hi, I am Shannon!
 
   </h1>
   
   <p><img align="right" src="https://media.tenor.com/exuPwTTU-FwAAAAC/key-click-typing.gif" height="100" /></p>
   
-<p>ꜱʜᴇ / ᴛʜᴇʏ</p>
-<p>ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ꜱᴛᴜᴅᴇɴᴛ ᴄᴜʀʀᴇɴᴛʟʏ ᴇɴʀᴏʟʟᴇᴅ ɪɴ ᴀ fᴜʟʟ ꜱᴛᴀᴄᴋ ʙᴏᴏᴛᴄᴀᴍᴘ.</p>
-  <p>ʙᴀꜱᴇᴅ ɪɴ ʙᴏꜱᴛᴏɴ ᴍᴀ</p>
+<p>She/They</p>
+<p>Web development student currently in a full stack web development bootcamp.</p>
+  <p>Based in the Greater Boston area.</p>
   
 <h1>
 </h1>
