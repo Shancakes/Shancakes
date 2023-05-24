@@ -1,25 +1,31 @@
 <div class="readme">
 
-  <h1>
-    Hi, I am Shannon!
+<h1 align="center">Hi 👋, I'm Shannon</h1>
+<h3 align="center">A full stack web development bootcamp student in the greater Boston area</h3>
 
-  </h1>
-  
-  <p><img align="right" src="https://media.tenor.com/exuPwTTU-FwAAAAC/key-click-typing.gif" height="100" /></p>
-  
-<p>She/They</p>
-<p>Web development student currently in a full stack web development bootcamp.</p>
-  <p>Based in the Greater Boston area.</p>
-  
-<h1>
-</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shancakes&label=Profile%20views&color=0e75b6&style=flat" alt="shancakes" /> </p>
 
- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> 
+- 🔭 I’m currently working on [my web app for community fridges.](https://github.com/Shancakes/Community-Fridge-Project)
 
-![html-filetype](https://user-images.githubusercontent.com/115766756/222976919-afca47bd-9ecf-4b58-8ff7-430dd7dee7df.png)
-![css-filetype](https://user-images.githubusercontent.com/115766756/222976922-4df6f14c-edb7-472b-9a49-94d1fa6bb6cc.png)
-![j![visual-studio-code-2019](https://user-images.githubusercontent.com/115766756/222976956-0d9c2add-58b0-42f1-a12e-5496ff374166.png)
-s](https://user-images.githubusercontent.com/115766756/222976923-138bbb87-c9a5-4985-8c30-527a00efd8e6.png)
-![visual-studio-code-2019](https://user-images.githubusercontent.com/115766756/222976974-1d20940c-6ae3-4fcf-aab9-521faf2b47e4.png)
+- 🌱 I’m currently learning **Back-end development - deployment**
 
-</div>
+- 📫 How to reach me: **sdonnelly91420@gmail.com**
+
+- 📄 Know about my experiences [through my Resume](https://docs.google.com/document/d/13cbRTnO6nsltqqiPtai3ci7EjvdQaYeJdd5TfAJqc8E/edit?usp=sharing)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/shancakes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shancakes" height="30" width="40" /></a>
+</p>
+   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> 
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shancakes&show_icons=true&locale=en&layout=compact" alt="shancakes" /></p>
+
+
+
+
+
+
