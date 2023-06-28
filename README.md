@@ -1,7 +1,7 @@
 <div class="readme">
 
 <h1 align="center">Hi 👋, I'm Shannon</h1>
-<h3 align="center">A full stack web development bootcamp student in the greater Boston area</h3>
+<h3 align="center">A full stack web development developer Boston area</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shancakes&label=Profile%20views&color=0e75b6&style=flat" alt="shancakes" /> </p>
 
