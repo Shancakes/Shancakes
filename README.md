@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [a full web app for community fridges.](https://github.com/Shancakes/Community-Fridge-Project)
 
-- 🌱 I’m currently learning **Back-end development - deployment**
+- 🌱 I’m currently learning **Back-end development - deployment**, **Python**, **SQL**
 
 - 📫 How to reach me: **sdonnelly91420@gmail.com**
 
