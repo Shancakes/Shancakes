@@ -11,7 +11,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shancakes&label=Profile%20views&color=0e75b6&style=flat" alt="shancakes" /> </p>
 
-- 🔭 I’m currently working on [a full web app for community fridges.](https://github.com/Shancakes/Community-Fridge-Project)
+- 🔭 I’m currently working on [learning React.](https://react.dev/))
 
 - 🌱 I’m currently learning: **Solidifying Javascript concepts**
 
