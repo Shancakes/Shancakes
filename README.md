@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning: **Solidifying Javascript concepts, Learning React.**
 
-- 📫 How to reach me: **sdonnelly91420@gmail.com**
+- 📫 How to reach me: **shan.donnelly.42@gmail.com**
 
 - 📄 Know about my experiences [through my Resume](https://docs.google.com/document/d/13cbRTnO6nsltqqiPtai3ci7EjvdQaYeJdd5TfAJqc8E/edit?usp=sharing)
 
