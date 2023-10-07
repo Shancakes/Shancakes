@@ -4,7 +4,7 @@
 # Hi 👋, I'm Shannon
 ## A full stack web developer in the Greater Boston area
 
-  <img src="https://github.com/Shancakes/Shancakes/blob/main/g32K.gif" width="250">
+  <img src="https://github.com/Shancakes/Shancakes/blob/main/g32K.gif" width="300">
 </div>
 
 <div class="readme">
