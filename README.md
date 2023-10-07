@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [learning React.](https://react.dev/)
 
-- 🌱 I’m currently learning: **Solidifying Javascript concepts**, Learning React.**
+- 🌱 I’m currently learning: **Solidifying Javascript concepts, Learning React.**
 
 - 📫 How to reach me: **sdonnelly91420@gmail.com**
 
