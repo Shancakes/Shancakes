@@ -2,9 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Shannon</h1>
 <h3 align="center">A full stack web developer in the Greater Boston area</h3>
-
-![Koi Pond Gif](g32k.gif)
-
+![](https://github.com/Shancakes/Shancakes/blob/main/g32K.gif)
 <div class="readme">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shancakes&label=Profile%20views&color=0e75b6&style=flat" alt="shancakes" /> </p>
