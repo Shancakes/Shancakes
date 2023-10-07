@@ -1,15 +1,15 @@
 
-
+<div align="center">
+  
 # Hi 👋, I'm Shannon
 ## A full stack web developer in the Greater Boston area
 
-<div align="center">
   <img src="https://github.com/Shancakes/Shancakes/blob/main/g32K.gif" width="100">
 </div>
 
 <div class="readme">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shancakes&label=Profile%20views&color=0e75b6&style=flat" alt="shancakes" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shancakes&label=Profile%20views&color=0e75b6&style=flat" alt="shancakes" /> </p>
 
 - 🔭 I’m currently working on [a full web app for community fridges.](https://github.com/Shancakes/Community-Fridge-Project)
 
