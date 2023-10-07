@@ -1,8 +1,8 @@
 
 <div align="center" color="#800080">
   
-# Hi 👋, I'm Shannon
-## A full stack web developer in the Greater Boston area
+# <font color="purple">Hi 👋, I'm Shannon</font>
+## <font color="purple">A full stack web developer in the Greater Boston area</font>
 
   <img src="https://github.com/Shancakes/Shancakes/blob/main/g32K.gif" width="300">
 </div>
