@@ -1,9 +1,11 @@
 
 
-<h1 align="center">Hi 👋, I'm Shannon</h1>
-<h3 align="center">A full stack web developer in the Greater Boston area</h3>
+# Hi 👋, I'm Shannon
+## A full stack web developer in the Greater Boston area
 
-![](https://github.com/Shancakes/Shancakes/blob/main/g32K.gif)
+<div align="center">
+  <img src="https://github.com/Shancakes/Shancakes/blob/main/g32K.gif" width="100">
+</div>
 
 <div class="readme">
 
