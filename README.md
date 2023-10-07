@@ -1,5 +1,5 @@
 
-<div align="center">
+<div align="center" color="#800080">
   
 # Hi 👋, I'm Shannon
 ## A full stack web developer in the Greater Boston area
