@@ -13,13 +13,13 @@
 <br>
 
 <div class="readme">
-- 🔭 I’m currently working on <a href="https://react.dev/">learning react</a>.
+- :sparkles::raising_hand: I’m currently working on <a href="https://react.dev/">learning react</a>.
 
-- 🌱 I’m currently learning: **Solidifying Javascript concepts, Learning React.**
+- :purple_heart: Currently learning: **Solidifying Javascript concepts, Learning React.**
 
-- 📫 How to reach me: **shan.donnelly.42@gmail.com**
+- :purple_heart: How to reach me: **shan.donnelly.42@gmail.com**
 
-- 📄 Know about my experiences <a href="https://docs.google.com/document/d/13cbRTnO6nsltqqiPtai3ci7EjvdQaYeJdd5TfAJqc8E/edit?usp=sharing">through my resume</a>.
+- :purple_heart: Know about my experiences <a href="https://docs.google.com/document/d/13cbRTnO6nsltqqiPtai3ci7EjvdQaYeJdd5TfAJqc8E/edit?usp=sharing">through my resume</a>.
 
 <hr>
 
