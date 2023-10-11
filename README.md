@@ -1,10 +1,16 @@
 <div align="center">
   
-# <font color="purple">Hi 👋, I'm Shannon</font>
-## <font color="purple">A full stack web developer / designer in the Greater Boston area</font>
+<font color="purple">
+<img src="https://lh3.googleusercontent.com/pw/ADCreHdXLT2hiGHpomHSmjtmSsnTAN_tHAKSpdVaYieGxHCTfnkc9pYZG62x23eZysWO3-xPYbcSAJlJ_5qcvAUGkdFqsoAq4DtjYqum7SlX4DaLXHeuVGquPswi-zHXpGk1kKrQfUsjDMx4mWY0iYtz3yM4aE5zfwPbPxb6AcQ53AkXbpIMzdnb9O9FrxXtitx5qRPtiU-sVrMXPphbVvZyDkmrBUf_tl7lojlPDN954NAXZoS3FPwdNNJN659IQU0e5OJJ847FPaOcr6v5unPH71BgTs1B-w0dwtxrdjROLBylJXpThQj3V1r12-7vbplqwBWzxSW5V9lsbgwyKAySRfIn_Zu8K1a0rQZpaejd3elMgx3VZhNpIBDH04CZaj-JQ8b8NUI7bq8Jwm1hSplRKW-30xyptKFA5hhCY5Z4974ujJKNjXW8eN43dFWAQoTCNqMbwQMaBbRxodA1gCS7NlYlFHt_HspSYpmIKImiB6AX-7-4S7q059B8kRNPApbalAUX2ajjA4kNRL_dxcy9a21cejFQYKunw-MZrXN52r9ewCaxUfQ1bWFTCNZFrqt5-0OV5FPbczDsE7_ZAdkK0EwUbRqXxzgnFcD_2NOTmxYDYEN8dUPVdPkvG088LcTQFK_JwRO1n76oTtncV20NWm8F0-AWDvgST6eT4FOxtsCcNu_KcfRC35MalrFjG_6HWTxtkjMiXEChYG4lOF6jeZTpRQctTxADbrmxxTX8NZoira8pWKXc4ari_bv_Ftq-tUZAgBblXCyXoCa61yZqeB4XNTkN7WfNCZiLHCBwyfUd1_OVFToeeBEUBG7WRXDP8b4bdbbaHvzQQ_oY_P5ivAOBZKJvp3z8Omo2_sK1ed5bmE0YT4tNlNd6VRUfy-do-XzNAw2dMSoKWi9rQx2hCXiUfo8c-hH8wGufXzp9dIpE3GHw3lRyxL9E9T-nw490RIWd7lB18qton-LhhdUdCjep-xeIuEc=w1470-h490-s-no?authuser=0">
+</font> 
+
+
+# <span style="color:purple">A full stack web developer / designer in the Greater Boston area</span> 
 
   <img src="https://github.com/Shancakes/Shancakes/blob/main/g32K.gif" width="300">
 </div>
+
+<br>
 
 <div class="readme">
 - 🔭 I’m currently working on <a href="https://react.dev/">learning react</a>.
@@ -27,7 +33,7 @@
    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> 
   
 <h3 align="left">Languages and Tools:</h3>
-   <p align="left">   <img src="https://skillicons.dev/icons?i=git,,vscode,html,css,js,react,nodejs,mongodb,postman,ps,ai,figma," /> </p>
+   <p align="left">   <img src="https://skillicons.dev/icons?i=git,vscode,html,css,js,react,nodejs,mongodb,postman,ps,ai,figma," /> </p>
 <hr>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shancakes&show_icons=true&locale=en&layout=compact" alt="shancakes" /></p>
