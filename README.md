@@ -11,7 +11,7 @@
 <br>
 
 <div class="readme">
-- :sparkles::raising_hand: I’m working on <a href="https://react.dev/">learning react</a>.
+- :sparkles::raising_hand: I’m working on <a href="https://github.com/Shancakes/StudyTools">building a study web app</a>.
 
 - :purple_heart: Currently learning: **Solidifying Javascript concepts, Learning React.**
 
