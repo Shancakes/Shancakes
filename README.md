@@ -4,7 +4,7 @@
 <font color="purple">
 <h1>Hi, I'm Shannon</h1>
 
-# :wavy_dash: A Front End Web Developer in the Greater Boston area :wavy_dash:
+#  A Front End Web Developer in the Greater Boston area 
 
 </div>
 
@@ -13,11 +13,11 @@
 <div class="readme">
 - :sparkles::raising_hand: I’m working on <a href="https://github.com/Shancakes/StudyTools">building a study web app</a>.
 
-- :purple_heart: Currently learning: **Solidifying Javascript concepts, Learning React.**
+- Currently learning: **Solidifying Javascript concepts, Learning React.**
 
-- :purple_heart: How to reach me: **shan.donnelly.42@gmail.com**
+- How to reach me: **shan.donnelly.42@gmail.com**
 
-- :purple_heart: Know about my experiences <a href="https://docs.google.com/document/d/13cbRTnO6nsltqqiPtai3ci7EjvdQaYeJdd5TfAJqc8E/edit?usp=sharing">through my resume</a>.
+- Know about my experiences <a href="https://docs.google.com/document/d/13cbRTnO6nsltqqiPtai3ci7EjvdQaYeJdd5TfAJqc8E/edit?usp=sharing">through my resume</a>.
 
 <hr>
 
