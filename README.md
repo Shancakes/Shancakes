@@ -15,6 +15,8 @@
 
 - Currently learning: **Solidifying Javascript concepts, Learning React.**
 
+- Check out my <a href="https://docs.google.com/spreadsheets/d/1_sLZqAe57LYTVrnBq0MzOGW1U8sCCL0esUjLLuoG9NY/edit?usp=sharing">Javascript Master List</a>!
+
 - How to reach me: **shan.donnelly.42@gmail.com**
 
 - Know about my experiences <a href="https://docs.google.com/document/d/13cbRTnO6nsltqqiPtai3ci7EjvdQaYeJdd5TfAJqc8E/edit?usp=sharing">through my resume</a>.
