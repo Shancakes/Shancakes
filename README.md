@@ -15,7 +15,7 @@
 
 - Currently learning: **Solidifying Javascript concepts, Learning React.**
 
-- Check out my <a href="https://docs.google.com/spreadsheets/d/1_sLZqAe57LYTVrnBq0MzOGW1U8sCCL0esUjLLuoG9NY/edit?usp=sharing">Javascript Master List</a>!
+- Learning Javascript? Check out my <a href="https://docs.google.com/spreadsheets/d/1_sLZqAe57LYTVrnBq0MzOGW1U8sCCL0esUjLLuoG9NY/edit?usp=sharing">Javascript Master List</a>!
 
 - How to reach me: **shan.donnelly.42@gmail.com**
 
