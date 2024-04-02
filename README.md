@@ -21,7 +21,7 @@
 
 - Know about my experiences <a href="https://docs.google.com/document/d/13cbRTnO6nsltqqiPtai3ci7EjvdQaYeJdd5TfAJqc8E/edit?usp=sharing">through my resume</a>.
 
-- Proud graduate of the <a href="https://codesquad.org/PersonalPagesCoh2023/personal-page-shannon.html">CodeSquad 2023 Cohort</a>!
+- Graduate of the <a href="https://codesquad.org/PersonalPagesCoh2023/personal-page-shannon.html">CodeSquad 2023 Cohort</a>!
 
 <hr>
 
